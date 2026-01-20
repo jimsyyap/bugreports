@@ -140,7 +140,7 @@ If you find this repository helpful:
 ---
 
 *Last Updated: 20 January 2026*  
-*Total Reports: 1*  
+*Total Reports: 2*  
 *Total Bounties: $0*
 
 ---
