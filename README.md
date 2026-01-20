@@ -37,10 +37,10 @@ A curated collection of vulnerability reports and bug bounty submissions I've re
 
 ## 🏆 Acknowledgments
 
-### Hall of Fame
-- [Company A](link) - Critical SQL Injection
-- [Company B](link) - RCE Vulnerability
-- [Company C](link) - Authentication Bypass
+<!-- ### Hall of Fame -->
+<!-- - [Company A](link) - Critical SQL Injection -->
+<!-- - [Company B](link) - RCE Vulnerability -->
+<!-- - [Company C](link) - Authentication Bypass -->
 
 ### Bug Bounty Programs
 - HackerOne: [jimmydesu](https://hackerone.com)
