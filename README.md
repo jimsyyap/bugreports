@@ -1,6 +1,8 @@
 # 🛡️ Bug Bounty & Vulnerability Reports
 
-A curated collection of vulnerability reports and bug bounty submissions I've responsibly disclosed to various organizations. Note that sensitive information had been changed or (substituted as) `redacted` as per guidelines of the bug bounty program.
+A curated collection of vulnerability reports and bug bounty submissions I've responsibly disclosed to various organizations. Note that sensitive information had been changed or (substituted as) `redacted` as per guidelines of the bug bounty program. 
+
+**Note**: Some of the reports may or may not have been submitted. I collect minor bugs looking for ways to chain vulnerabilities with future investigations.
 
 <!-- ## 📁 Repository Structure -->
 <!---->
