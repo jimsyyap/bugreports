@@ -128,7 +128,7 @@ While this is a personal repository, I welcome:
 ## 📞 Contact
 
 For questions about specific reports or collaboration:
-- **Email:** jimmydesu@bugcrowdninja.com
+<!-- - **Email:** jimmydesu@bugcrowdninja.com -->
 
 ## 🌟 Support
 
