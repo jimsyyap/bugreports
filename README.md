@@ -1,26 +1,26 @@
 # 🛡️ Bug Bounty & Vulnerability Reports
 
-A curated collection of vulnerability reports and bug bounty submissions I've responsibly disclosed to various organizations.
+A curated collection of vulnerability reports and bug bounty submissions I've responsibly disclosed to various organizations. Note that sensitive information had been changed or (substituted as) `redacted` as per guidelines of the bug bounty program.
 
-## 📁 Repository Structure
-
-```
-├── reports/
-│   ├── critical/
-│   ├── high/
-│   ├── medium/
-│   └── low/
-├── acknowledgments/
-│   ├── hall-of-fame/
-│   └── thank-you-letters/
-├── templates/
-│   ├── report-template.md
-│   └── disclosure-template.md
-└── programs/
-    ├── company-a/
-    ├── company-b/
-    └── company-c/
-```
+<!-- ## 📁 Repository Structure -->
+<!---->
+<!-- ``` -->
+<!-- ├── reports/ -->
+<!-- │   ├── critical/ -->
+<!-- │   ├── high/ -->
+<!-- │   ├── medium/ -->
+<!-- │   └── low/ -->
+<!-- ├── acknowledgments/ -->
+<!-- │   ├── hall-of-fame/ -->
+<!-- │   └── thank-you-letters/ -->
+<!-- ├── templates/ -->
+<!-- │   ├── report-template.md -->
+<!-- │   └── disclosure-template.md -->
+<!-- └── programs/ -->
+<!--     ├── company-a/ -->
+<!--     ├── company-b/ -->
+<!--     └── company-c/ -->
+<!-- ``` -->
 
 ## 📊 Report Statistics
 
