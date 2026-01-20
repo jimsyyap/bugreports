@@ -21,7 +21,7 @@ We identified **1,218 subdomains** that resolve in DNS but return a specific app
 * **The "Available" Signature:** These domains return a distinct 404 error: *"The page you were looking for doesn't exist (404)"*. This differs from a standard DNS NXDOMAIN error, confirming the application is aware of the route but has no content serving it.
 * **Authentication Vector:** We confirmed that a valid redacted account (via SSO) creates a valid User context within redacted.
 
-#### **Impact Assessment (The "Sabermetric" View)**
+#### **Impact Assessment**
 
 1. **Reputation Hijacking (High Certainty):**
 * Attackers can claim names like `uxpoland2016.redacted.com` or `vox-populi.redacted.com`.
@@ -66,10 +66,3 @@ Implement a "Cool-down" or "Tombstone" policy for deprovisioned subdomains. When
 Audit the 1,218 identified subdomains for external CNAME references and notify affected former customers to remove dangling DNS records.
 
 ---
-
-[BILL'S CLOSING SYNTHESIS]
-
-"That is a winning lineup. It is honest about the limitations but ruthless about the risk.
-
-**Next Step:**
-Submit this report immediately. While you wait for triage, I recommend we have Alex start a passive scan on that `ps-staging` target—developers are notorious for leaving staging environments wide open. Would you like to pivot to that?"

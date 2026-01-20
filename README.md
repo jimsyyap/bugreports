@@ -28,12 +28,12 @@ A curated collection of vulnerability reports and bug bounty submissions I've re
 |----------|-------|-----------------|-------------|
 | Critical | X     | $X              | [View]()    |
 | High     | X     | $X              | [View]()    |
-| Medium   | X     | $X              | [View]()    |
+| Medium   | 2     | $0.00           | [View]()    |
 | Low      | X     | $X              | [View]()    |
 
-**Total Bounties:** $X  
-**Total Reports:** X  
-**Average Response Time:** X days
+**Total Bounties:** $0.00  
+**Total Reports:** 2  
+**Average Response Time:** 4 days
 
 ## 🏆 Acknowledgments
 
